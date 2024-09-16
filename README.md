@@ -1,0 +1,1 @@
+This project demonstrates the RAG pattern by building an AI HR Assistant. The solution enables users, in this case employees of organization to find any relevant information from an organization knowledge base. We have augmented the RAG pattern with a AI Video Assistant developed using Azure Text-To-Speech Avatar
